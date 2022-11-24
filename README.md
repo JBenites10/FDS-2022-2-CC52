@@ -32,7 +32,11 @@ Para este proyecto estamos utilizando el dataset de bike_buers.csv. Este lo pode
 Estas siendo todas representadas por el comprador de biciletas y sus respectivas características.
 
 # Conclusiones:
-
+<ul>
+  <li>Se ha logrado resolver cada una de las preguntas propuestas por el cliente. Estas respuestas se pueden encontrar de manera detallada en el punto N°6. </li>
+  <li>Se llegó a responder la pregunta que si es factible predecir si el cliente comprará o no una bicileta, el cual tiene como respuesta un si es factible. Esta respuesta se puede encontrar de forma más detallada en el punto N°7. </li>
+  <li>Pudimos graficar bastantes de las preguntas del proovedor para que de esa manera la visualización de este sea mucho más fácil. </li>
+</ul>
 
 # Licencia de uso:
 ### MIT License
